@@ -28,7 +28,7 @@ Beyond work, I enjoy exploring nature, practicing yoga, traveling, and staying i
 
 ### 🌟 Let's Connect:
 
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/mrtirey)**
-- 📜 **Resume:** Available upon request or via LinkedIn
+- 🔗 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtirey/)**
+- 📜 **Resume:** Available upon request or via LinkedIn Message
 
 Thanks for stopping by—feel free to explore, connect, or reach out! Let’s build something amazing together. 🌍🚀
