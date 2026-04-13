@@ -1,35 +1,37 @@
-# Hi, I'm Matt 👋🏼  
-☁️ **Senior Cloud Engineer** | ⚙️ **DevOps & Platform Advocate** | 📚 **Lifelong Learner**
+# Hi, I'm Matt 👋🏼
 
-Senior Cloud Engineer with two decades in tech — and 4+ years focused on cloud platforms, automation, and building infrastructure that’s not just technically sound, but thoughtfully designed for the people who use and maintain it.
+☁️ **Senior Cloud & Platform Engineer** | ⚙️ **Platform Engineering & Automation** | 📚 **Lifelong Learner**
+
+Senior Cloud and Platform Engineer with two decades in tech — including 4+ years building internal developer platforms on Azure, from GitHub org governance and self-service provisioning to a composable shared GitHub Actions library covering the full Terraform lifecycle. Building tooling that teams depend on every day, without having to think twice about it.
 
 ---
 
 ## 🔧 What I Focus On
 
+- **Platform Engineering** — GitHub org governance, self-service repo provisioning, and JIT access controls
 - **Infrastructure as Code** with [Terraform](https://www.terraform.io/)
-- **Cloud solutions** in [Azure](https://azure.microsoft.com/) and [Google Cloud](https://cloud.google.com/)
-- **CI/CD pipelines** using GitHub Actions, Bitbucket Pipelines, and YAML-based automation
-- **Governance & security** with Snyk, Wiz, Azure Policy, and RBAC
+- **Shared GitHub Actions** — full Terraform lifecycle automation on Azure
+- **Governance & Security** with Snyk, Wiz, Azure Policy, RBAC, and CODEOWNERS
 
 ---
 
 ## 🛠 Tech Stack Highlights
 
-| **Category**              | **Technologies**                                                                                                                                                       |
-|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ☁️ **Cloud & IaC**         | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) |
-| 🔁 **Automation & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Renovate](https://img.shields.io/badge/Renovate-1A1A1A?style=for-the-badge&logo=renovatebot&logoColor=white) ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) |
-| 🔐 **Security & Versioning** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) ![Wiz](https://img.shields.io/badge/Wiz-512BD4?style=for-the-badge&logo=wiz&logoColor=white) |
-| 💻 **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white) |
+| **Category**                  | **Technologies**                                                                                                                                                                                                                                                                                                                                              |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ☁️ **Cloud & IaC**            | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)           |
+| 🔁 **Automation & CI/CD**     | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Renovate](https://img.shields.io/badge/Renovate-1A1A1A?style=for-the-badge&logo=renovatebot&logoColor=white)                                                                                                                 |
+| 🔐 **Security & Governance**  | ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white) ![Wiz](https://img.shields.io/badge/Wiz-512BD4?style=for-the-badge&logo=wiz&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)                                                           |
+| 💻 **Languages & Scripting**  | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white) |
+| 🤖 **AI & Tooling**           | ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)                                                                                                                    |
 
 ---
 
 ## 🌿 A Bit More About Me
 
-Great engineering isn’t about knowing everything — it’s about staying curious, asking thoughtful questions, and building things that work well for real teams. I care about clean code, practical design, and long-term maintainability.
+Great engineering isn't about knowing everything — it's about staying curious, asking thoughtful questions, and building things that work well for real teams. I care about clean code, practical design, and reducing toil for the people who use what I build.
 
-I enjoy mentoring others, streamlining cloud workflows, and building tools that help teams move faster and with more confidence. Whether creating reusable Terraform modules or scaling enterprise platforms, I aim to make things more understandable and sustainable.
+I enjoy mentoring others and building platforms that help teams move faster and with more confidence — whether that's reusable Terraform modules, shared GitHub Actions, or the governance layer that holds it all together.
 
 Outside of work, you'll usually find me on a trail, practicing yoga, playing bass, or digging into a good book. Progress — in tech and in life — often comes through iteration, humility, and not taking ourselves too seriously. 🌱
 
